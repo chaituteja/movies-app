@@ -1,0 +1,56 @@
+.movie {
+  margin-bottom: 30px;
+  box-shadow: 10px 10px 40px 0 rgba(52, 58, 64, 0.1);
+}
+
+.star-icon {
+  color: #ffc741;
+}
+
+.movie-genres {
+  float: right;
+}
+
+.movie-info {
+  font-size: 14px;
+  color: #999;
+  padding: 10px 0;
+  position: relative;
+}
+
+.movie-overview {
+  color: #999;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.btn-read-more {
+  background-color: #9352b3;
+  color: white;
+  font-weight: 600;
+}
+
+.btn-read-more:hover {
+  filter: brightness(113%);
+  color: white;
+}
+
+.movie-watched__button {
+  background-color: #9352b3;
+  display: block;
+  height: 60px;
+  width: 60px;
+  color: white;
+  border-radius: 50%;
+  z-index: 10;
+  box-shadow: 0 10px 30px 0 rgba(147, 82, 179, 0.7);
+  text-align: center;
+  line-height: 60px;
+  float: right;
+}
+
+.movie-watched__button:hover {
+  cursor: pointer;
+  filter: brightness(150%);
+  color: white;
+}
