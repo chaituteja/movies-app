@@ -19,4 +19,5 @@ npm start
 2) Use search field in the Header to search for other movies
 3) 'Read me' button in the Movie component takes user to appropriate IMDB page
 4) Use Eye icon in the Movie component to set a movie as watched
+5) The Movie Database  API sends 20 Results per page
 ```
